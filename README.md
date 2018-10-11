@@ -19,7 +19,7 @@ Prerequisites:
    
 2. Update the OpenWeatherMap API Key in info plist file next to AppID key.
 
-3. Open the WeatherMap.xcworkspace in XCode; before the first run.
+3. Open the WeatherMap.xcworkspace in XCode.
 
 ## Run
 
