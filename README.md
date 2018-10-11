@@ -27,3 +27,9 @@ Use XCode to run, build and test the code:
 * Choose `Run` to run the app on a Simulator or device;
 * Select `Product > Build` from the menu to build the app
 
+## MoreInfo
+
+* Followed MVVM design patter for better understaing.
+* Thirdparty libraries like 'Alamofire' and 'SVProgressHUD' used.
+* Weather forecasts is hardcoded to single city as of now.
+
